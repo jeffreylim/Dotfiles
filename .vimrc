@@ -40,9 +40,9 @@ set mat=5      " blink matching brackets for half a second
 set so=10      " always see 10 lines up/down
 set wildmenu
 set backspace=2 " backspace over everything
-"set foldminlines=60
-"set foldlevel=3
-"set foldmethod=marker
+set foldminlines=60
+set foldlevel=3
+set foldmethod=marker
 
 set hlsearch   "set nohlsearch " do not highlight searchstrings
 set incsearch  " do incremental searching
@@ -82,9 +82,9 @@ let g:airline#extensions#tabline#enabled = 1
 """""""""""
 " SOLARIZED
 """""""""""
-"syntax enable
-"set background=dark
-"colorscheme solarized
+" syntax enable
+" set background=dark
+" colorscheme solarized
 
 
 """""""""
